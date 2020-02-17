@@ -1,0 +1,603 @@
+Day 0 using a time-step of 20.0s:
+The total momentum for the system is:  5.679980633352253E31 kgm/s
+ 
+Day 1 using a time-step of 20.0s:
+The total momentum for the system is:  5.680556827499031E31 kgm/s
+ 
+Day 2 using a time-step of 20.0s:
+The total momentum for the system is:  5.681140121165769E31 kgm/s
+ 
+Day 3 using a time-step of 20.0s:
+The total momentum for the system is:  5.68173127541966E31 kgm/s
+ 
+Day 4 using a time-step of 20.0s:
+The total momentum for the system is:  5.68233069449163E31 kgm/s
+ 
+Day 5 using a time-step of 20.0s:
+The total momentum for the system is:  5.682938365328435E31 kgm/s
+ 
+Day 6 using a time-step of 20.0s:
+The total momentum for the system is:  5.683553822599256E31 kgm/s
+ 
+Day 7 using a time-step of 20.0s:
+The total momentum for the system is:  5.684176146620465E31 kgm/s
+ 
+Day 8 using a time-step of 20.0s:
+The total momentum for the system is:  5.684803997329587E31 kgm/s
+ 
+Day 9 using a time-step of 20.0s:
+The total momentum for the system is:  5.685435682079263E31 kgm/s
+ 
+Day 10 using a time-step of 20.0s:
+The total momentum for the system is:  5.686069249891579E31 kgm/s
+ 
+Day 11 using a time-step of 20.0s:
+The total momentum for the system is:  5.686702601123044E31 kgm/s
+ 
+Day 12 using a time-step of 20.0s:
+The total momentum for the system is:  5.687333600025345E31 kgm/s
+ 
+Day 13 using a time-step of 20.0s:
+The total momentum for the system is:  5.687960178586842E31 kgm/s
+ 
+Day 14 using a time-step of 20.0s:
+The total momentum for the system is:  5.688580422798251E31 kgm/s
+ 
+Day 15 using a time-step of 20.0s:
+The total momentum for the system is:  5.689192636215693E31 kgm/s
+ 
+Day 16 using a time-step of 20.0s:
+The total momentum for the system is:  5.689795379453136E31 kgm/s
+ 
+Day 17 using a time-step of 20.0s:
+The total momentum for the system is:  5.690387487311493E31 kgm/s
+ 
+Day 18 using a time-step of 20.0s:
+The total momentum for the system is:  5.690968067281739E31 kgm/s
+ 
+Day 19 using a time-step of 20.0s:
+The total momentum for the system is:  5.691536484113681E31 kgm/s
+ 
+Day 20 using a time-step of 20.0s:
+The total momentum for the system is:  5.6920923352105345E31 kgm/s
+ 
+Day 21 using a time-step of 20.0s:
+The total momentum for the system is:  5.692635421070927E31 kgm/s
+ 
+Day 22 using a time-step of 20.0s:
+The total momentum for the system is:  5.693165714125753E31 kgm/s
+ 
+Day 23 using a time-step of 20.0s:
+The total momentum for the system is:  5.693683328312465E31 kgm/s
+ 
+Day 24 using a time-step of 20.0s:
+The total momentum for the system is:  5.694188490742337E31 kgm/s
+ 
+Day 25 using a time-step of 20.0s:
+The total momentum for the system is:  5.69468151599458E31 kgm/s
+ 
+Day 26 using a time-step of 20.0s:
+The total momentum for the system is:  5.695162783108356E31 kgm/s
+ 
+Day 27 using a time-step of 20.0s:
+The total momentum for the system is:  5.695632715396956E31 kgm/s
+ 
+Day 28 using a time-step of 20.0s:
+The total momentum for the system is:  5.696091763615462E31 kgm/s
+ 
+Day 29 using a time-step of 20.0s:
+The total momentum for the system is:  5.696540393179199E31 kgm/s
+ 
+Day 30 using a time-step of 20.0s:
+The total momentum for the system is:  5.6969790755502565E31 kgm/s
+ 
+Day 31 using a time-step of 20.0s:
+The total momentum for the system is:  5.697408282912413E31 kgm/s
+ 
+Day 32 using a time-step of 20.0s:
+The total momentum for the system is:  5.697828484721685E31 kgm/s
+ 
+Day 33 using a time-step of 20.0s:
+The total momentum for the system is:  5.698240145015348E31 kgm/s
+ 
+Day 34 using a time-step of 20.0s:
+The total momentum for the system is:  5.698643720026238E31 kgm/s
+ 
+Day 35 using a time-step of 20.0s:
+The total momentum for the system is:  5.699039656114514E31 kgm/s
+ 
+Day 36 using a time-step of 20.0s:
+The total momentum for the system is:  5.699428388145921E31 kgm/s
+ 
+Day 37 using a time-step of 20.0s:
+The total momentum for the system is:  5.699810338368161E31 kgm/s
+ 
+Day 38 using a time-step of 20.0s:
+The total momentum for the system is:  5.700185915733784E31 kgm/s
+ 
+Day 39 using a time-step of 20.0s:
+The total momentum for the system is:  5.700555515562042E31 kgm/s
+ 
+Day 40 using a time-step of 20.0s:
+The total momentum for the system is:  5.7009195194279865E31 kgm/s
+ 
+Day 41 using a time-step of 20.0s:
+The total momentum for the system is:  5.701278295194913E31 kgm/s
+ 
+Day 42 using a time-step of 20.0s:
+The total momentum for the system is:  5.701632197148812E31 kgm/s
+ 
+Day 43 using a time-step of 20.0s:
+The total momentum for the system is:  5.7019815662330625E31 kgm/s
+ 
+Day 44 using a time-step of 20.0s:
+The total momentum for the system is:  5.702326730405581E31 kgm/s
+ 
+Day 45 using a time-step of 20.0s:
+The total momentum for the system is:  5.702668005143762E31 kgm/s
+ 
+Day 46 using a time-step of 20.0s:
+The total momentum for the system is:  5.703005694106658E31 kgm/s
+ 
+Day 47 using a time-step of 20.0s:
+The total momentum for the system is:  5.703340089942987E31 kgm/s
+ 
+Day 48 using a time-step of 20.0s:
+The total momentum for the system is:  5.703671475220134E31 kgm/s
+ 
+Day 49 using a time-step of 20.0s:
+The total momentum for the system is:  5.704000123449788E31 kgm/s
+ 
+Day 50 using a time-step of 20.0s:
+The total momentum for the system is:  5.7043263001901995E31 kgm/s
+ 
+Day 51 using a time-step of 20.0s:
+The total momentum for the system is:  5.704650264186795E31 kgm/s
+ 
+Day 52 using a time-step of 20.0s:
+The total momentum for the system is:  5.7049722684464E31 kgm/s
+ 
+Day 53 using a time-step of 20.0s:
+The total momentum for the system is:  5.705292561022097E31 kgm/s
+ 
+Day 54 using a time-step of 20.0s:
+The total momentum for the system is:  5.705611385189071E31 kgm/s
+ 
+Day 55 using a time-step of 20.0s:
+The total momentum for the system is:  5.705928978769407E31 kgm/s
+ 
+Day 56 using a time-step of 20.0s:
+The total momentum for the system is:  5.706245572751181E31 kgm/s
+ 
+Day 57 using a time-step of 20.0s:
+The total momentum for the system is:  5.706561389902157E31 kgm/s
+ 
+Day 58 using a time-step of 20.0s:
+The total momentum for the system is:  5.70687664432816E31 kgm/s
+ 
+Day 59 using a time-step of 20.0s:
+The total momentum for the system is:  5.707191542497638E31 kgm/s
+ 
+Day 60 using a time-step of 20.0s:
+The total momentum for the system is:  5.707506285434126E31 kgm/s
+ 
+Day 61 using a time-step of 20.0s:
+The total momentum for the system is:  5.707821071277486E31 kgm/s
+ 
+Day 62 using a time-step of 20.0s:
+The total momentum for the system is:  5.708136097557172E31 kgm/s
+ 
+Day 63 using a time-step of 20.0s:
+The total momentum for the system is:  5.708451563000073E31 kgm/s
+ 
+Day 64 using a time-step of 20.0s:
+The total momentum for the system is:  5.708767669069701E31 kgm/s
+ 
+Day 65 using a time-step of 20.0s:
+The total momentum for the system is:  5.709084621549552E31 kgm/s
+ 
+Day 66 using a time-step of 20.0s:
+The total momentum for the system is:  5.709402632428815E31 kgm/s
+ 
+Day 67 using a time-step of 20.0s:
+The total momentum for the system is:  5.709721922250799E31 kgm/s
+ 
+Day 68 using a time-step of 20.0s:
+The total momentum for the system is:  5.710042723012185E31 kgm/s
+ 
+Day 69 using a time-step of 20.0s:
+The total momentum for the system is:  5.710365281667209E31 kgm/s
+ 
+Day 70 using a time-step of 20.0s:
+The total momentum for the system is:  5.710689864291546E31 kgm/s
+ 
+Day 71 using a time-step of 20.0s:
+The total momentum for the system is:  5.711016760984815E31 kgm/s
+ 
+Day 72 using a time-step of 20.0s:
+The total momentum for the system is:  5.711346291631151E31 kgm/s
+ 
+Day 73 using a time-step of 20.0s:
+The total momentum for the system is:  5.7116788126774235E31 kgm/s
+ 
+Day 74 using a time-step of 20.0s:
+The total momentum for the system is:  5.71201472510411E31 kgm/s
+ 
+Day 75 using a time-step of 20.0s:
+The total momentum for the system is:  5.712354483728273E31 kgm/s
+ 
+Day 76 using a time-step of 20.0s:
+The total momentum for the system is:  5.712698607875895E31 kgm/s
+ 
+Day 77 using a time-step of 20.0s:
+The total momentum for the system is:  5.713047693293647E31 kgm/s
+ 
+Day 78 using a time-step of 20.0s:
+The total momentum for the system is:  5.713402424956393E31 kgm/s
+ 
+Day 79 using a time-step of 20.0s:
+The total momentum for the system is:  5.7137635901725015E31 kgm/s
+ 
+Day 80 using a time-step of 20.0s:
+The total momentum for the system is:  5.714132091084091E31 kgm/s
+ 
+Day 81 using a time-step of 20.0s:
+The total momentum for the system is:  5.714508955282557E31 kgm/s
+ 
+Day 82 using a time-step of 20.0s:
+The total momentum for the system is:  5.7148953428216625E31 kgm/s
+ 
+Day 83 using a time-step of 20.0s:
+The total momentum for the system is:  5.71529254749392E31 kgm/s
+ 
+Day 84 using a time-step of 20.0s:
+The total momentum for the system is:  5.715701989998136E31 kgm/s
+ 
+Day 85 using a time-step of 20.0s:
+The total momentum for the system is:  5.716125200709607E31 kgm/s
+ 
+Day 86 using a time-step of 20.0s:
+The total momentum for the system is:  5.71656379017306E31 kgm/s
+ 
+Day 87 using a time-step of 20.0s:
+The total momentum for the system is:  5.717019406037288E31 kgm/s
+ 
+Day 88 using a time-step of 20.0s:
+The total momentum for the system is:  5.717493675917198E31 kgm/s
+ 
+Day 89 using a time-step of 20.0s:
+The total momentum for the system is:  5.71798813688185E31 kgm/s
+ 
+Day 90 using a time-step of 20.0s:
+The total momentum for the system is:  5.718504154273913E31 kgm/s
+ 
+Day 91 using a time-step of 20.0s:
+The total momentum for the system is:  5.7190428352930005E31 kgm/s
+ 
+Day 92 using a time-step of 20.0s:
+The total momentum for the system is:  5.719604945557273E31 kgm/s
+ 
+Day 93 using a time-step of 20.0s:
+The total momentum for the system is:  5.7201908387412485E31 kgm/s
+ 
+Day 94 using a time-step of 20.0s:
+The total momentum for the system is:  5.720800409549986E31 kgm/s
+ 
+Day 95 using a time-step of 20.0s:
+The total momentum for the system is:  5.721433078319418E31 kgm/s
+ 
+Day 96 using a time-step of 20.0s:
+The total momentum for the system is:  5.722087811584645E31 kgm/s
+ 
+Day 97 using a time-step of 20.0s:
+The total momentum for the system is:  5.7227631777689E31 kgm/s
+ 
+Day 98 using a time-step of 20.0s:
+The total momentum for the system is:  5.7234574318815885E31 kgm/s
+ 
+Day 99 using a time-step of 20.0s:
+The total momentum for the system is:  5.724168619017437E31 kgm/s
+ 
+Day 100 using a time-step of 20.0s:
+The total momentum for the system is:  5.724894684438724E31 kgm/s
+ 
+Day 101 using a time-step of 20.0s:
+The total momentum for the system is:  5.725633578393896E31 kgm/s
+ 
+Day 102 using a time-step of 20.0s:
+The total momentum for the system is:  5.726383346217023E31 kgm/s
+ 
+Day 103 using a time-step of 20.0s:
+The total momentum for the system is:  5.727142197828677E31 kgm/s
+ 
+Day 104 using a time-step of 20.0s:
+The total momentum for the system is:  5.727908554536996E31 kgm/s
+ 
+Day 105 using a time-step of 20.0s:
+The total momentum for the system is:  5.728681074197194E31 kgm/s
+ 
+Day 106 using a time-step of 20.0s:
+The total momentum for the system is:  5.729458657875002E31 kgm/s
+ 
+Day 107 using a time-step of 20.0s:
+The total momentum for the system is:  5.730240442131153E31 kgm/s
+ 
+Day 108 using a time-step of 20.0s:
+The total momentum for the system is:  5.7310257811454465E31 kgm/s
+ 
+Day 109 using a time-step of 20.0s:
+The total momentum for the system is:  5.731814222469486E31 kgm/s
+ 
+Day 110 using a time-step of 20.0s:
+The total momentum for the system is:  5.732605479516877E31 kgm/s
+ 
+Day 111 using a time-step of 20.0s:
+The total momentum for the system is:  5.73339940315573E31 kgm/s
+ 
+Day 112 using a time-step of 20.0s:
+The total momentum for the system is:  5.734195954087343E31 kgm/s
+ 
+Day 113 using a time-step of 20.0s:
+The total momentum for the system is:  5.7349951771668485E31 kgm/s
+ 
+Day 114 using a time-step of 20.0s:
+The total momentum for the system is:  5.7357971784694125E31 kgm/s
+ 
+Day 115 using a time-step of 20.0s:
+The total momentum for the system is:  5.7366021056584255E31 kgm/s
+ 
+Day 116 using a time-step of 20.0s:
+The total momentum for the system is:  5.7374101319444745E31 kgm/s
+ 
+Day 117 using a time-step of 20.0s:
+The total momentum for the system is:  5.738221443570954E31 kgm/s
+ 
+Day 118 using a time-step of 20.0s:
+The total momentum for the system is:  5.739036230399787E31 kgm/s
+ 
+Day 119 using a time-step of 20.0s:
+The total momentum for the system is:  5.739854678946691E31 kgm/s
+ 
+Day 120 using a time-step of 20.0s:
+The total momentum for the system is:  5.740676967204015E31 kgm/s
+ 
+Day 121 using a time-step of 20.0s:
+The total momentum for the system is:  5.741503260738546E31 kgm/s
+ 
+Day 122 using a time-step of 20.0s:
+The total momentum for the system is:  5.742333709738421E31 kgm/s
+ 
+Day 123 using a time-step of 20.0s:
+The total momentum for the system is:  5.743168446825193E31 kgm/s
+ 
+Day 124 using a time-step of 20.0s:
+The total momentum for the system is:  5.744007585518921E31 kgm/s
+ 
+Day 125 using a time-step of 20.0s:
+The total momentum for the system is:  5.744851219264152E31 kgm/s
+ 
+Day 126 using a time-step of 20.0s:
+The total momentum for the system is:  5.745699420914539E31 kgm/s
+ 
+Day 127 using a time-step of 20.0s:
+The total momentum for the system is:  5.746552242548311E31 kgm/s
+ 
+Day 128 using a time-step of 20.0s:
+The total momentum for the system is:  5.747409715453392E31 kgm/s
+ 
+Day 129 using a time-step of 20.0s:
+The total momentum for the system is:  5.7482718500962085E31 kgm/s
+ 
+Day 130 using a time-step of 20.0s:
+The total momentum for the system is:  5.749138635903828E31 kgm/s
+ 
+Day 131 using a time-step of 20.0s:
+The total momentum for the system is:  5.750010040790777E31 kgm/s
+ 
+Day 132 using a time-step of 20.0s:
+The total momentum for the system is:  5.750886010564234E31 kgm/s
+ 
+Day 133 using a time-step of 20.0s:
+The total momentum for the system is:  5.751766468569216E31 kgm/s
+ 
+Day 134 using a time-step of 20.0s:
+The total momentum for the system is:  5.752651316020879E31 kgm/s
+ 
+Day 135 using a time-step of 20.0s:
+The total momentum for the system is:  5.753540433273325E31 kgm/s
+ 
+Day 136 using a time-step of 20.0s:
+The total momentum for the system is:  5.754433681858662E31 kgm/s
+ 
+Day 137 using a time-step of 20.0s:
+The total momentum for the system is:  5.755330906767423E31 kgm/s
+ 
+Day 138 using a time-step of 20.0s:
+The total momentum for the system is:  5.756231938375455E31 kgm/s
+ 
+Day 139 using a time-step of 20.0s:
+The total momentum for the system is:  5.757136593646718E31 kgm/s
+ 
+Day 140 using a time-step of 20.0s:
+The total momentum for the system is:  5.758044676558331E31 kgm/s
+ 
+Day 141 using a time-step of 20.0s:
+The total momentum for the system is:  5.758955977925537E31 kgm/s
+ 
+Day 142 using a time-step of 20.0s:
+The total momentum for the system is:  5.75987027490324E31 kgm/s
+ 
+Day 143 using a time-step of 20.0s:
+The total momentum for the system is:  5.760787330453788E31 kgm/s
+ 
+Day 144 using a time-step of 20.0s:
+The total momentum for the system is:  5.7617068930379355E31 kgm/s
+ 
+Day 145 using a time-step of 20.0s:
+The total momentum for the system is:  5.762628696718137E31 kgm/s
+ 
+Day 146 using a time-step of 20.0s:
+The total momentum for the system is:  5.76355246175827E31 kgm/s
+ 
+Day 147 using a time-step of 20.0s:
+The total momentum for the system is:  5.764477895686897E31 kgm/s
+ 
+Day 148 using a time-step of 20.0s:
+The total momentum for the system is:  5.7654046947051375E31 kgm/s
+ 
+Day 149 using a time-step of 20.0s:
+The total momentum for the system is:  5.766332545299453E31 kgm/s
+ 
+Day 150 using a time-step of 20.0s:
+The total momentum for the system is:  5.767261125961693E31 kgm/s
+ 
+Day 151 using a time-step of 20.0s:
+The total momentum for the system is:  5.768190108993257E31 kgm/s
+ 
+Day 152 using a time-step of 20.0s:
+The total momentum for the system is:  5.769119162442212E31 kgm/s
+ 
+Day 153 using a time-step of 20.0s:
+The total momentum for the system is:  5.770047952271596E31 kgm/s
+ 
+Day 154 using a time-step of 20.0s:
+The total momentum for the system is:  5.7709761448777795E31 kgm/s
+ 
+Day 155 using a time-step of 20.0s:
+The total momentum for the system is:  5.771903410072859E31 kgm/s
+ 
+Day 156 using a time-step of 20.0s:
+The total momentum for the system is:  5.772829424613102E31 kgm/s
+ 
+Day 157 using a time-step of 20.0s:
+The total momentum for the system is:  5.773753876296289E31 kgm/s
+ 
+Day 158 using a time-step of 20.0s:
+The total momentum for the system is:  5.774676468571566E31 kgm/s
+ 
+Day 159 using a time-step of 20.0s:
+The total momentum for the system is:  5.775596925556651E31 kgm/s
+ 
+Day 160 using a time-step of 20.0s:
+The total momentum for the system is:  5.776514997429566E31 kgm/s
+ 
+Day 161 using a time-step of 20.0s:
+The total momentum for the system is:  5.777430466440983E31 kgm/s
+ 
+Day 162 using a time-step of 20.0s:
+The total momentum for the system is:  5.778343154201788E31 kgm/s
+ 
+Day 163 using a time-step of 20.0s:
+The total momentum for the system is:  5.779252931112141E31 kgm/s
+ 
+Day 164 using a time-step of 20.0s:
+The total momentum for the system is:  5.780159728451212E31 kgm/s
+ 
+Day 165 using a time-step of 20.0s:
+The total momentum for the system is:  5.781063552808986E31 kgm/s
+ 
+Day 166 using a time-step of 20.0s:
+The total momentum for the system is:  5.78196450177891E31 kgm/s
+ 
+Day 167 using a time-step of 20.0s:
+The total momentum for the system is:  5.782862779622393E31 kgm/s
+ 
+Day 168 using a time-step of 20.0s:
+The total momentum for the system is:  5.783758711847399E31 kgm/s
+ 
+Day 169 using a time-step of 20.0s:
+The total momentum for the system is:  5.78465275782832E31 kgm/s
+ 
+Day 170 using a time-step of 20.0s:
+The total momentum for the system is:  5.7855455204251595E31 kgm/s
+ 
+Day 171 using a time-step of 20.0s:
+The total momentum for the system is:  5.786437751083393E31 kgm/s
+ 
+Day 172 using a time-step of 20.0s:
+The total momentum for the system is:  5.787330348331854E31 kgm/s
+ 
+Day 173 using a time-step of 20.0s:
+The total momentum for the system is:  5.78822434716E31 kgm/s
+ 
+Day 174 using a time-step of 20.0s:
+The total momentum for the system is:  5.789120896613569E31 kgm/s
+ 
+Day 175 using a time-step of 20.0s:
+The total momentum for the system is:  5.790021223252284E31 kgm/s
+ 
+Day 176 using a time-step of 20.0s:
+The total momentum for the system is:  5.790926579012905E31 kgm/s
+ 
+Day 177 using a time-step of 20.0s:
+The total momentum for the system is:  5.791838173629115E31 kgm/s
+ 
+Day 178 using a time-step of 20.0s:
+The total momentum for the system is:  5.792757094059421E31 kgm/s
+ 
+Day 179 using a time-step of 20.0s:
+The total momentum for the system is:  5.793684216139788E31 kgm/s
+ 
+Day 180 using a time-step of 20.0s:
+The total momentum for the system is:  5.794620116415586E31 kgm/s
+ 
+Day 181 using a time-step of 20.0s:
+The total momentum for the system is:  5.795564994114643E31 kgm/s
+ 
+Day 182 using a time-step of 20.0s:
+The total momentum for the system is:  5.796518613753981E31 kgm/s
+ 
+Day 183 using a time-step of 20.0s:
+The total momentum for the system is:  5.797480277410183E31 kgm/s
+ 
+Day 184 using a time-step of 20.0s:
+The total momentum for the system is:  5.798448832188499E31 kgm/s
+ 
+Day 185 using a time-step of 20.0s:
+The total momentum for the system is:  5.799422713472032E31 kgm/s
+ 
+Day 186 using a time-step of 20.0s:
+The total momentum for the system is:  5.800400019183263E31 kgm/s
+ 
+Day 187 using a time-step of 20.0s:
+The total momentum for the system is:  5.801378605789817E31 kgm/s
+ 
+Day 188 using a time-step of 20.0s:
+The total momentum for the system is:  5.802356194169411E31 kgm/s
+ 
+Day 189 using a time-step of 20.0s:
+The total momentum for the system is:  5.80333047326921E31 kgm/s
+ 
+Day 190 using a time-step of 20.0s:
+The total momentum for the system is:  5.804299191682919E31 kgm/s
+ 
+Day 191 using a time-step of 20.0s:
+The total momentum for the system is:  5.805260231053761E31 kgm/s
+ 
+Day 192 using a time-step of 20.0s:
+The total momentum for the system is:  5.806211659200089E31 kgm/s
+ 
+Day 193 using a time-step of 20.0s:
+The total momentum for the system is:  5.8071517636657985E31 kgm/s
+ 
+Day 194 using a time-step of 20.0s:
+The total momentum for the system is:  5.808079067656685E31 kgm/s
+ 
+Day 195 using a time-step of 20.0s:
+The total momentum for the system is:  5.808992330835431E31 kgm/s
+ 
+Day 196 using a time-step of 20.0s:
+The total momentum for the system is:  5.809890538025179E31 kgm/s
+ 
+Day 197 using a time-step of 20.0s:
+The total momentum for the system is:  5.8107728794358505E31 kgm/s
+ 
+Day 198 using a time-step of 20.0s:
+The total momentum for the system is:  5.811638726089825E31 kgm/s
+ 
+Day 199 using a time-step of 20.0s:
+The total momentum for the system is:  5.812487603560714E31 kgm/s
+ 
+Day 200 using a time-step of 20.0s:
+The total momentum for the system is:  5.813319166255484E31 kgm/s
+ 

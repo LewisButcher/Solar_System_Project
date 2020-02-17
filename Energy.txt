@@ -1,0 +1,1206 @@
+Day 0 using a time-step of 20.0s:
+The total KE for the system is:  1.8144370258783883E35 J
+ 
+Day 0 using a time-step of 20.0s:
+The total PE for the system is:  -3.795107707773884E26 J
+ 
+Day 1 using a time-step of 20.0s:
+The total KE for the system is:  1.8146145246285662E35 J
+ 
+Day 1 using a time-step of 20.0s:
+The total PE for the system is:  -3.795285205198145E26 J
+ 
+Day 2 using a time-step of 20.0s:
+The total KE for the system is:  1.814779476122893E35 J
+ 
+Day 2 using a time-step of 20.0s:
+The total PE for the system is:  -3.79545015511597E26 J
+ 
+Day 3 using a time-step of 20.0s:
+The total KE for the system is:  1.8149297889381557E35 J
+ 
+Day 3 using a time-step of 20.0s:
+The total PE for the system is:  -3.795600466123448E26 J
+ 
+Day 4 using a time-step of 20.0s:
+The total KE for the system is:  1.8150635975246947E35 J
+ 
+Day 4 using a time-step of 20.0s:
+The total PE for the system is:  -3.795734272703916E26 J
+ 
+Day 5 using a time-step of 20.0s:
+The total KE for the system is:  1.8151793783319552E35 J
+ 
+Day 5 using a time-step of 20.0s:
+The total PE for the system is:  -3.795850051352753E26 J
+ 
+Day 6 using a time-step of 20.0s:
+The total KE for the system is:  1.8152760534565317E35 J
+ 
+Day 6 using a time-step of 20.0s:
+The total PE for the system is:  -3.79594672422329E26 J
+ 
+Day 7 using a time-step of 20.0s:
+The total KE for the system is:  1.8153530687549473E35 J
+ 
+Day 7 using a time-step of 20.0s:
+The total PE for the system is:  -3.796023737235863E26 J
+ 
+Day 8 using a time-step of 20.0s:
+The total KE for the system is:  1.8154104357262237E35 J
+ 
+Day 8 using a time-step of 20.0s:
+The total PE for the system is:  -3.796081101955763E26 J
+ 
+Day 9 using a time-step of 20.0s:
+The total KE for the system is:  1.815448731154464E35 J
+ 
+Day 9 using a time-step of 20.0s:
+The total PE for the system is:  -3.796119395230831E26 J
+ 
+Day 10 using a time-step of 20.0s:
+The total KE for the system is:  1.815469054562235E35 J
+ 
+Day 10 using a time-step of 20.0s:
+The total PE for the system is:  -3.796139716640227E26 J
+ 
+Day 11 using a time-step of 20.0s:
+The total KE for the system is:  1.8154729495658198E35 J
+ 
+Day 11 using a time-step of 20.0s:
+The total PE for the system is:  -3.796143609845956E26 J
+ 
+Day 12 using a time-step of 20.0s:
+The total KE for the system is:  1.815462299857306E35 J
+ 
+Day 12 using a time-step of 20.0s:
+The total PE for the system is:  -3.7961329585728564E26 J
+ 
+Day 13 using a time-step of 20.0s:
+The total KE for the system is:  1.815439212848626E35 J
+ 
+Day 13 using a time-step of 20.0s:
+The total PE for the system is:  -3.7961098702518844E26 J
+ 
+Day 14 using a time-step of 20.0s:
+The total KE for the system is:  1.815405903796819E35 J
+ 
+Day 14 using a time-step of 20.0s:
+The total PE for the system is:  -3.79607656014623E26 J
+ 
+Day 15 using a time-step of 20.0s:
+The total KE for the system is:  1.8153645909627003E35 J
+ 
+Day 15 using a time-step of 20.0s:
+The total PE for the system is:  -3.796035246511656E26 J
+ 
+Day 16 using a time-step of 20.0s:
+The total KE for the system is:  1.815317408911791E35 J
+ 
+Day 16 using a time-step of 20.0s:
+The total PE for the system is:  -3.795988063899756E26 J
+ 
+Day 17 using a time-step of 20.0s:
+The total KE for the system is:  1.8152663433819088E35 J
+ 
+Day 17 using a time-step of 20.0s:
+The total PE for the system is:  -3.795936998028253E26 J
+ 
+Day 18 using a time-step of 20.0s:
+The total KE for the system is:  1.8152131879436655E35 J
+ 
+Day 18 using a time-step of 20.0s:
+The total PE for the system is:  -3.79588384244374E26 J
+ 
+Day 19 using a time-step of 20.0s:
+The total KE for the system is:  1.8151595203670675E35 J
+ 
+Day 19 using a time-step of 20.0s:
+The total PE for the system is:  -3.795830174890566E26 J
+ 
+Day 20 using a time-step of 20.0s:
+The total KE for the system is:  1.8151066952707308E35 J
+ 
+Day 20 using a time-step of 20.0s:
+The total PE for the system is:  -3.7957773499616454E26 J
+ 
+Day 21 using a time-step of 20.0s:
+The total KE for the system is:  1.8150558491413082E35 J
+ 
+Day 21 using a time-step of 20.0s:
+The total PE for the system is:  -3.795726504118991E26 J
+ 
+Day 22 using a time-step of 20.0s:
+The total KE for the system is:  1.8150079139422325E35 J
+ 
+Day 22 using a time-step of 20.0s:
+The total PE for the system is:  -3.795678569303418E26 J
+ 
+Day 23 using a time-step of 20.0s:
+The total KE for the system is:  1.814963636037758E35 J
+ 
+Day 23 using a time-step of 20.0s:
+The total PE for the system is:  -3.7956342918589186E26 J
+ 
+Day 24 using a time-step of 20.0s:
+The total KE for the system is:  1.8149235978312648E35 J
+ 
+Day 24 using a time-step of 20.0s:
+The total PE for the system is:  -3.795594254171185E26 J
+ 
+Day 25 using a time-step of 20.0s:
+The total KE for the system is:  1.8148882401996938E35 J
+ 
+Day 25 using a time-step of 20.0s:
+The total PE for the system is:  -3.795558897102028E26 J
+ 
+Day 26 using a time-step of 20.0s:
+The total KE for the system is:  1.8148578843899173E35 J
+ 
+Day 26 using a time-step of 20.0s:
+The total PE for the system is:  -3.795528541885761E26 J
+ 
+Day 27 using a time-step of 20.0s:
+The total KE for the system is:  1.8148327524765297E35 J
+ 
+Day 27 using a time-step of 20.0s:
+The total PE for the system is:  -3.795503410586551E26 J
+ 
+Day 28 using a time-step of 20.0s:
+The total KE for the system is:  1.8148129857825843E35 J
+ 
+Day 28 using a time-step of 20.0s:
+The total PE for the system is:  -3.795483644519149E26 J
+ 
+Day 29 using a time-step of 20.0s:
+The total KE for the system is:  1.8147986609195902E35 J
+ 
+Day 29 using a time-step of 20.0s:
+The total PE for the system is:  -3.7954693202883614E26 J
+ 
+Day 30 using a time-step of 20.0s:
+The total KE for the system is:  1.8147898033751597E35 J
+ 
+Day 30 using a time-step of 20.0s:
+The total PE for the system is:  -3.795460463376593E26 J
+ 
+Day 31 using a time-step of 20.0s:
+The total KE for the system is:  1.814786398836343E35 J
+ 
+Day 31 using a time-step of 20.0s:
+The total PE for the system is:  -3.79545705946683E26 J
+ 
+Day 32 using a time-step of 20.0s:
+The total KE for the system is:  1.8147884025863374E35 J
+ 
+Day 32 using a time-step of 20.0s:
+The total PE for the system is:  -3.79545906383925E26 J
+ 
+Day 33 using a time-step of 20.0s:
+The total KE for the system is:  1.8147957473182814E35 J
+ 
+Day 33 using a time-step of 20.0s:
+The total PE for the system is:  -3.795466409184814E26 J
+ 
+Day 34 using a time-step of 20.0s:
+The total KE for the system is:  1.8148083496337435E35 J
+ 
+Day 34 using a time-step of 20.0s:
+The total PE for the system is:  -3.795479012103531E26 J
+ 
+Day 35 using a time-step of 20.0s:
+The total KE for the system is:  1.8148261154170282E35 J
+ 
+Day 35 using a time-step of 20.0s:
+The total PE for the system is:  -3.7954967784787026E26 J
+ 
+Day 36 using a time-step of 20.0s:
+The total KE for the system is:  1.8148489442353676E35 J
+ 
+Day 36 using a time-step of 20.0s:
+The total PE for the system is:  -3.7955196078770984E26 J
+ 
+Day 37 using a time-step of 20.0s:
+The total KE for the system is:  1.8148767328997575E35 J
+ 
+Day 37 using a time-step of 20.0s:
+The total PE for the system is:  -3.79554739710957E26 J
+ 
+Day 38 using a time-step of 20.0s:
+The total KE for the system is:  1.8149093783146734E35 J
+ 
+Day 38 using a time-step of 20.0s:
+The total PE for the system is:  -3.795580043080681E26 J
+ 
+Day 39 using a time-step of 20.0s:
+The total KE for the system is:  1.8149467797363403E35 J
+ 
+Day 39 using a time-step of 20.0s:
+The total PE for the system is:  -3.795617445047134E26 J
+ 
+Day 40 using a time-step of 20.0s:
+The total KE for the system is:  1.814988840546967E35 J
+ 
+Day 40 using a time-step of 20.0s:
+The total PE for the system is:  -3.795659506391631E26 J
+ 
+Day 41 using a time-step of 20.0s:
+The total KE for the system is:  1.815035469635478E35 J
+ 
+Day 41 using a time-step of 20.0s:
+The total PE for the system is:  -3.795706136003856E26 J
+ 
+Day 42 using a time-step of 20.0s:
+The total KE for the system is:  1.8150865824600125E35 J
+ 
+Day 42 using a time-step of 20.0s:
+The total PE for the system is:  -3.795757249342694E26 J
+ 
+Day 43 using a time-step of 20.0s:
+The total KE for the system is:  1.81514210185144E35 J
+ 
+Day 43 using a time-step of 20.0s:
+The total PE for the system is:  -3.795812769239978E26 J
+ 
+Day 44 using a time-step of 20.0s:
+The total KE for the system is:  1.815201958605641E35 J
+ 
+Day 44 using a time-step of 20.0s:
+The total PE for the system is:  -3.7958726264925035E26 J
+ 
+Day 45 using a time-step of 20.0s:
+The total KE for the system is:  1.8152660919023817E35 J
+ 
+Day 45 using a time-step of 20.0s:
+The total PE for the system is:  -3.7959367602810134E26 J
+ 
+Day 46 using a time-step of 20.0s:
+The total KE for the system is:  1.815334449583031E35 J
+ 
+Day 46 using a time-step of 20.0s:
+The total PE for the system is:  -3.796005118447923E26 J
+ 
+Day 47 using a time-step of 20.0s:
+The total KE for the system is:  1.815406988315071E35 J
+ 
+Day 47 using a time-step of 20.0s:
+The total PE for the system is:  -3.796077657661719E26 J
+ 
+Day 48 using a time-step of 20.0s:
+The total KE for the system is:  1.8154836736680655E35 J
+ 
+Day 48 using a time-step of 20.0s:
+The total PE for the system is:  -3.7961543434929845E26 J
+ 
+Day 49 using a time-step of 20.0s:
+The total KE for the system is:  1.815564480124044E35 J
+ 
+Day 49 using a time-step of 20.0s:
+The total PE for the system is:  -3.796235150424814E26 J
+ 
+Day 50 using a time-step of 20.0s:
+The total KE for the system is:  1.8156493910447925E35 J
+ 
+Day 50 using a time-step of 20.0s:
+The total PE for the system is:  -3.796320061819991E26 J
+ 
+Day 51 using a time-step of 20.0s:
+The total KE for the system is:  1.815738398621755E35 J
+ 
+Day 51 using a time-step of 20.0s:
+The total PE for the system is:  -3.796409069870996E26 J
+ 
+Day 52 using a time-step of 20.0s:
+The total KE for the system is:  1.8158315038415298E35 J
+ 
+Day 52 using a time-step of 20.0s:
+The total PE for the system is:  -3.796502175565421E26 J
+ 
+Day 53 using a time-step of 20.0s:
+The total KE for the system is:  1.8159287165069274E35 J
+ 
+Day 53 using a time-step of 20.0s:
+The total PE for the system is:  -3.796599388707126E26 J
+ 
+Day 54 using a time-step of 20.0s:
+The total KE for the system is:  1.8160300553501907E35 J
+ 
+Day 54 using a time-step of 20.0s:
+The total PE for the system is:  -3.796700728029356E26 J
+ 
+Day 55 using a time-step of 20.0s:
+The total KE for the system is:  1.8161355482427465E35 J
+ 
+Day 55 using a time-step of 20.0s:
+The total PE for the system is:  -3.796806221404675E26 J
+ 
+Day 56 using a time-step of 20.0s:
+The total KE for the system is:  1.8162452324438602E35 J
+ 
+Day 56 using a time-step of 20.0s:
+The total PE for the system is:  -3.796915906093398E26 J
+ 
+Day 57 using a time-step of 20.0s:
+The total KE for the system is:  1.8163591547638515E35 J
+ 
+Day 57 using a time-step of 20.0s:
+The total PE for the system is:  -3.797029828906981E26 J
+ 
+Day 58 using a time-step of 20.0s:
+The total KE for the system is:  1.816477371506348E35 J
+ 
+Day 58 using a time-step of 20.0s:
+The total PE for the system is:  -3.797148046150142E26 J
+ 
+Day 59 using a time-step of 20.0s:
+The total KE for the system is:  1.816599948124326E35 J
+ 
+Day 59 using a time-step of 20.0s:
+The total PE for the system is:  -3.797270623276851E26 J
+ 
+Day 60 using a time-step of 20.0s:
+The total KE for the system is:  1.816726958630386E35 J
+ 
+Day 60 using a time-step of 20.0s:
+The total PE for the system is:  -3.7973976343006764E26 J
+ 
+Day 61 using a time-step of 20.0s:
+The total KE for the system is:  1.8168584848569744E35 J
+ 
+Day 61 using a time-step of 20.0s:
+The total PE for the system is:  -3.797529161054924E26 J
+ 
+Day 62 using a time-step of 20.0s:
+The total KE for the system is:  1.8169946156345943E35 J
+ 
+Day 62 using a time-step of 20.0s:
+The total PE for the system is:  -3.797665292370864E26 J
+ 
+Day 63 using a time-step of 20.0s:
+The total KE for the system is:  1.8171354458841662E35 J
+ 
+Day 63 using a time-step of 20.0s:
+The total PE for the system is:  -3.7978061231700585E26 J
+ 
+Day 64 using a time-step of 20.0s:
+The total KE for the system is:  1.8172810755568425E35 J
+ 
+Day 64 using a time-step of 20.0s:
+The total PE for the system is:  -3.797951753404164E26 J
+ 
+Day 65 using a time-step of 20.0s:
+The total KE for the system is:  1.817431608322026E35 J
+ 
+Day 65 using a time-step of 20.0s:
+The total PE for the system is:  -3.798102286742938E26 J
+ 
+Day 66 using a time-step of 20.0s:
+The total KE for the system is:  1.817587149894225E35 J
+ 
+Day 66 using a time-step of 20.0s:
+The total PE for the system is:  -3.7982578289010036E26 J
+ 
+Day 67 using a time-step of 20.0s:
+The total KE for the system is:  1.8177478058854863E35 J
+ 
+Day 67 using a time-step of 20.0s:
+The total PE for the system is:  -3.7984184854902574E26 J
+ 
+Day 68 using a time-step of 20.0s:
+The total KE for the system is:  1.817913679063344E35 J
+ 
+Day 68 using a time-step of 20.0s:
+The total PE for the system is:  -3.798584359277697E26 J
+ 
+Day 69 using a time-step of 20.0s:
+The total KE for the system is:  1.818084865880692E35 J
+ 
+Day 69 using a time-step of 20.0s:
+The total PE for the system is:  -3.798755546715274E26 J
+ 
+Day 70 using a time-step of 20.0s:
+The total KE for the system is:  1.818261452125007E35 J
+ 
+Day 70 using a time-step of 20.0s:
+The total PE for the system is:  -3.7989321335889323E26 J
+ 
+Day 71 using a time-step of 20.0s:
+The total KE for the system is:  1.818443507511078E35 J
+ 
+Day 71 using a time-step of 20.0s:
+The total PE for the system is:  -3.799114189611216E26 J
+ 
+Day 72 using a time-step of 20.0s:
+The total KE for the system is:  1.8186310790175718E35 J
+ 
+Day 72 using a time-step of 20.0s:
+The total PE for the system is:  -3.799301761757767E26 J
+ 
+Day 73 using a time-step of 20.0s:
+The total KE for the system is:  1.8188241827481877E35 J
+ 
+Day 73 using a time-step of 20.0s:
+The total PE for the system is:  -3.7994948661281514E26 J
+ 
+Day 74 using a time-step of 20.0s:
+The total KE for the system is:  1.8190227940872835E35 J
+ 
+Day 74 using a time-step of 20.0s:
+The total PE for the system is:  -3.799693478101378E26 J
+ 
+Day 75 using a time-step of 20.0s:
+The total KE for the system is:  1.8192268359284863E35 J
+ 
+Day 75 using a time-step of 20.0s:
+The total PE for the system is:  -3.799897520564214E26 J
+ 
+Day 76 using a time-step of 20.0s:
+The total KE for the system is:  1.819436164790514E35 J
+ 
+Day 76 using a time-step of 20.0s:
+The total PE for the system is:  -3.800106850026838E26 J
+ 
+Day 77 using a time-step of 20.0s:
+The total KE for the system is:  1.819650554709673E35 J
+ 
+Day 77 using a time-step of 20.0s:
+The total PE for the system is:  -3.800321240514974E26 J
+ 
+Day 78 using a time-step of 20.0s:
+The total KE for the system is:  1.8198696789279238E35 J
+ 
+Day 78 using a time-step of 20.0s:
+The total PE for the system is:  -3.800540365257793E26 J
+ 
+Day 79 using a time-step of 20.0s:
+The total KE for the system is:  1.82009308959563E35 J
+ 
+Day 79 using a time-step of 20.0s:
+The total PE for the system is:  -3.8007637763903886E26 J
+ 
+Day 80 using a time-step of 20.0s:
+The total KE for the system is:  1.8203201959979693E35 J
+ 
+Day 80 using a time-step of 20.0s:
+The total PE for the system is:  -3.800990883180122E26 J
+ 
+Day 81 using a time-step of 20.0s:
+The total KE for the system is:  1.820550242211837E35 J
+ 
+Day 81 using a time-step of 20.0s:
+The total PE for the system is:  -3.801220929683471E26 J
+ 
+Day 82 using a time-step of 20.0s:
+The total KE for the system is:  1.820782285608997E35 J
+ 
+Day 82 using a time-step of 20.0s:
+The total PE for the system is:  -3.801452973249424E26 J
+ 
+Day 83 using a time-step of 20.0s:
+The total KE for the system is:  1.821015178227325E35 J
+ 
+Day 83 using a time-step of 20.0s:
+The total PE for the system is:  -3.801685865891224E26 J
+ 
+Day 84 using a time-step of 20.0s:
+The total KE for the system is:  1.8212475536847486E35 J
+ 
+Day 84 using a time-step of 20.0s:
+The total PE for the system is:  -3.801918241201086E26 J
+ 
+Day 85 using a time-step of 20.0s:
+The total KE for the system is:  1.8214778229240707E35 J
+ 
+Day 85 using a time-step of 20.0s:
+The total PE for the system is:  -3.8021485100962E26 J
+ 
+Day 86 using a time-step of 20.0s:
+The total KE for the system is:  1.8217041825236146E35 J
+ 
+Day 86 using a time-step of 20.0s:
+The total PE for the system is:  -3.8023748691311846E26 J
+ 
+Day 87 using a time-step of 20.0s:
+The total KE for the system is:  1.821924639407597E35 J
+ 
+Day 87 using a time-step of 20.0s:
+The total PE for the system is:  -3.802595325210448E26 J
+ 
+Day 88 using a time-step of 20.0s:
+The total KE for the system is:  1.8221370553027466E35 J
+ 
+Day 88 using a time-step of 20.0s:
+The total PE for the system is:  -3.802807740047358E26 J
+ 
+Day 89 using a time-step of 20.0s:
+The total KE for the system is:  1.822339212957873E35 J
+ 
+Day 89 using a time-step of 20.0s:
+The total PE for the system is:  -3.803009896386216E26 J
+ 
+Day 90 using a time-step of 20.0s:
+The total KE for the system is:  1.822528903807758E35 J
+ 
+Day 90 using a time-step of 20.0s:
+The total PE for the system is:  -3.803199585668653E26 J
+ 
+Day 91 using a time-step of 20.0s:
+The total KE for the system is:  1.8227040335134495E35 J
+ 
+Day 91 using a time-step of 20.0s:
+The total PE for the system is:  -3.8033747135755535E26 J
+ 
+Day 92 using a time-step of 20.0s:
+The total KE for the system is:  1.822862738082286E35 J
+ 
+Day 92 using a time-step of 20.0s:
+The total PE for the system is:  -3.803533416147721E26 J
+ 
+Day 93 using a time-step of 20.0s:
+The total KE for the system is:  1.823003499837412E35 J
+ 
+Day 93 using a time-step of 20.0s:
+The total PE for the system is:  -3.803674175754764E26 J
+ 
+Day 94 using a time-step of 20.0s:
+The total KE for the system is:  1.82312525032219E35 J
+ 
+Day 94 using a time-step of 20.0s:
+The total PE for the system is:  -3.8037959239970615E26 J
+ 
+Day 95 using a time-step of 20.0s:
+The total KE for the system is:  1.8232274471492184E35 J
+ 
+Day 95 using a time-step of 20.0s:
+The total PE for the system is:  -3.8038981185512314E26 J
+ 
+Day 96 using a time-step of 20.0s:
+The total KE for the system is:  1.8233101142691565E35 J
+ 
+Day 96 using a time-step of 20.0s:
+The total PE for the system is:  -3.80398078343421E26 J
+ 
+Day 97 using a time-step of 20.0s:
+The total KE for the system is:  1.8233738398874504E35 J
+ 
+Day 97 using a time-step of 20.0s:
+The total PE for the system is:  -3.804044506914976E26 J
+ 
+Day 98 using a time-step of 20.0s:
+The total KE for the system is:  1.8234197323368133E35 J
+ 
+Day 98 using a time-step of 20.0s:
+The total PE for the system is:  -3.804090397382399E26 J
+ 
+Day 99 using a time-step of 20.0s:
+The total KE for the system is:  1.8234493402185042E35 J
+ 
+Day 99 using a time-step of 20.0s:
+The total PE for the system is:  -3.804120003482996E26 J
+ 
+Day 100 using a time-step of 20.0s:
+The total KE for the system is:  1.823464547679104E35 J
+ 
+Day 100 using a time-step of 20.0s:
+The total PE for the system is:  -3.804135209395548E26 J
+ 
+Day 101 using a time-step of 20.0s:
+The total KE for the system is:  1.8234674578963017E35 J
+ 
+Day 101 using a time-step of 20.0s:
+The total PE for the system is:  -3.804138118316255E26 J
+ 
+Day 102 using a time-step of 20.0s:
+The total KE for the system is:  1.8234602775331403E35 J
+ 
+Day 102 using a time-step of 20.0s:
+The total PE for the system is:  -3.804130936913815E26 J
+ 
+Day 103 using a time-step of 20.0s:
+The total KE for the system is:  1.8234452125821328E35 J
+ 
+Day 103 using a time-step of 20.0s:
+The total PE for the system is:  -3.804115871175292E26 J
+ 
+Day 104 using a time-step of 20.0s:
+The total KE for the system is:  1.823424382545088E35 J
+ 
+Day 104 using a time-step of 20.0s:
+The total PE for the system is:  -3.8040950405883564E26 J
+ 
+Day 105 using a time-step of 20.0s:
+The total KE for the system is:  1.8233997562181786E35 J
+ 
+Day 105 using a time-step of 20.0s:
+The total PE for the system is:  -3.8040704139288675E26 J
+ 
+Day 106 using a time-step of 20.0s:
+The total KE for the system is:  1.823373109191001E35 J
+ 
+Day 106 using a time-step of 20.0s:
+The total PE for the system is:  -3.804043766762403E26 J
+ 
+Day 107 using a time-step of 20.0s:
+The total KE for the system is:  1.8233460009087846E35 J
+ 
+Day 107 using a time-step of 20.0s:
+The total PE for the system is:  -3.80401665850846E26 J
+ 
+Day 108 using a time-step of 20.0s:
+The total KE for the system is:  1.8233197678594407E35 J
+ 
+Day 108 using a time-step of 20.0s:
+The total PE for the system is:  -3.8039904256292476E26 J
+ 
+Day 109 using a time-step of 20.0s:
+The total KE for the system is:  1.82329552899308E35 J
+ 
+Day 109 using a time-step of 20.0s:
+The total PE for the system is:  -3.8039661870504375E26 J
+ 
+Day 110 using a time-step of 20.0s:
+The total KE for the system is:  1.823274199624753E35 J
+ 
+Day 110 using a time-step of 20.0s:
+The total PE for the system is:  -3.803944858064508E26 J
+ 
+Day 111 using a time-step of 20.0s:
+The total KE for the system is:  1.823256510566209E35 J
+ 
+Day 111 using a time-step of 20.0s:
+The total PE for the system is:  -3.8039271694631014E26 J
+ 
+Day 112 using a time-step of 20.0s:
+The total KE for the system is:  1.8232430298790014E35 J
+ 
+Day 112 using a time-step of 20.0s:
+The total PE for the system is:  -3.803913689290228E26 J
+ 
+Day 113 using a time-step of 20.0s:
+The total KE for the system is:  1.8232341852967863E35 J
+ 
+Day 113 using a time-step of 20.0s:
+The total PE for the system is:  -3.803904845264578E26 J
+ 
+Day 114 using a time-step of 20.0s:
+The total KE for the system is:  1.823230285950472E35 J
+ 
+Day 114 using a time-step of 20.0s:
+The total PE for the system is:  -3.803900946504536E26 J
+ 
+Day 115 using a time-step of 20.0s:
+The total KE for the system is:  1.823231542515851E35 J
+ 
+Day 115 using a time-step of 20.0s:
+The total PE for the system is:  -3.803902203675624E26 J
+ 
+Day 116 using a time-step of 20.0s:
+The total KE for the system is:  1.8232380852904348E35 J
+ 
+Day 116 using a time-step of 20.0s:
+The total PE for the system is:  -3.8039087470669706E26 J
+ 
+Day 117 using a time-step of 20.0s:
+The total KE for the system is:  1.8232499800033332E35 J
+ 
+Day 117 using a time-step of 20.0s:
+The total PE for the system is:  -3.803920642401007E26 J
+ 
+Day 118 using a time-step of 20.0s:
+The total KE for the system is:  1.8232672413764263E35 J
+ 
+Day 118 using a time-step of 20.0s:
+The total PE for the system is:  -3.803937904394501E26 J
+ 
+Day 119 using a time-step of 20.0s:
+The total KE for the system is:  1.8232898445901814E35 J
+ 
+Day 119 using a time-step of 20.0s:
+The total PE for the system is:  -3.803960508223852E26 J
+ 
+Day 120 using a time-step of 20.0s:
+The total KE for the system is:  1.823317734872453E35 J
+ 
+Day 120 using a time-step of 20.0s:
+The total PE for the system is:  -3.8039883991139616E26 J
+ 
+Day 121 using a time-step of 20.0s:
+The total KE for the system is:  1.8233508354472526E35 J
+ 
+Day 121 using a time-step of 20.0s:
+The total PE for the system is:  -3.804021500286734E26 J
+ 
+Day 122 using a time-step of 20.0s:
+The total KE for the system is:  1.8233890540698615E35 J
+ 
+Day 122 using a time-step of 20.0s:
+The total PE for the system is:  -3.8040597194959335E26 J
+ 
+Day 123 using a time-step of 20.0s:
+The total KE for the system is:  1.8234322883553027E35 J
+ 
+Day 123 using a time-step of 20.0s:
+The total PE for the system is:  -3.804102954355716E26 J
+ 
+Day 124 using a time-step of 20.0s:
+The total KE for the system is:  1.8234804300863335E35 J
+ 
+Day 124 using a time-step of 20.0s:
+The total PE for the system is:  -3.80415109664834E26 J
+ 
+Day 125 using a time-step of 20.0s:
+The total KE for the system is:  1.82353336866659E35 J
+ 
+Day 125 using a time-step of 20.0s:
+The total PE for the system is:  -3.804204035777386E26 J
+ 
+Day 126 using a time-step of 20.0s:
+The total KE for the system is:  1.8235909938668273E35 J
+ 
+Day 126 using a time-step of 20.0s:
+The total PE for the system is:  -3.804261661513765E26 J
+ 
+Day 127 using a time-step of 20.0s:
+The total KE for the system is:  1.8236531979951697E35 J
+ 
+Day 127 using a time-step of 20.0s:
+The total PE for the system is:  -3.8043238661659936E26 J
+ 
+Day 128 using a time-step of 20.0s:
+The total KE for the system is:  1.823719877607384E35 J
+ 
+Day 128 using a time-step of 20.0s:
+The total PE for the system is:  -3.804390546290427E26 J
+ 
+Day 129 using a time-step of 20.0s:
+The total KE for the system is:  1.8237909348583915E35 J
+ 
+Day 129 using a time-step of 20.0s:
+The total PE for the system is:  -3.8044616040426955E26 J
+ 
+Day 130 using a time-step of 20.0s:
+The total KE for the system is:  1.8238662785797175E35 J
+ 
+Day 130 using a time-step of 20.0s:
+The total PE for the system is:  -3.804536948255155E26 J
+ 
+Day 131 using a time-step of 20.0s:
+The total KE for the system is:  1.8239458251467386E35 J
+ 
+Day 131 using a time-step of 20.0s:
+The total PE for the system is:  -3.8046164953041066E26 J
+ 
+Day 132 using a time-step of 20.0s:
+The total KE for the system is:  1.824029499174386E35 J
+ 
+Day 132 using a time-step of 20.0s:
+The total PE for the system is:  -3.804700169805455E26 J
+ 
+Day 133 using a time-step of 20.0s:
+The total KE for the system is:  1.8241172340536634E35 J
+ 
+Day 133 using a time-step of 20.0s:
+The total PE for the system is:  -3.80478790515123E26 J
+ 
+Day 134 using a time-step of 20.0s:
+The total KE for the system is:  1.8242089723257257E35 J
+ 
+Day 134 using a time-step of 20.0s:
+The total PE for the system is:  -3.804879643883672E26 J
+ 
+Day 135 using a time-step of 20.0s:
+The total KE for the system is:  1.824304665892944E35 J
+ 
+Day 135 using a time-step of 20.0s:
+The total PE for the system is:  -3.8049753379062584E26 J
+ 
+Day 136 using a time-step of 20.0s:
+The total KE for the system is:  1.824404276087565E35 J
+ 
+Day 136 using a time-step of 20.0s:
+The total PE for the system is:  -3.805074948552301E26 J
+ 
+Day 137 using a time-step of 20.0s:
+The total KE for the system is:  1.8245077736434143E35 J
+ 
+Day 137 using a time-step of 20.0s:
+The total PE for the system is:  -3.8051784465567424E26 J
+ 
+Day 138 using a time-step of 20.0s:
+The total KE for the system is:  1.824615138628932E35 J
+ 
+Day 138 using a time-step of 20.0s:
+The total PE for the system is:  -3.805285811989077E26 J
+ 
+Day 139 using a time-step of 20.0s:
+The total KE for the system is:  1.824726360391961E35 J
+ 
+Day 139 using a time-step of 20.0s:
+The total PE for the system is:  -3.805397034198226E26 J
+ 
+Day 140 using a time-step of 20.0s:
+The total KE for the system is:  1.824841437545332E35 J
+ 
+Day 140 using a time-step of 20.0s:
+The total PE for the system is:  -3.805512111798106E26 J
+ 
+Day 141 using a time-step of 20.0s:
+The total KE for the system is:  1.82496037799758E35 J
+ 
+Day 141 using a time-step of 20.0s:
+The total PE for the system is:  -3.805631052698337E26 J
+ 
+Day 142 using a time-step of 20.0s:
+The total KE for the system is:  1.825083199012661E35 J
+ 
+Day 142 using a time-step of 20.0s:
+The total PE for the system is:  -3.805753874163924E26 J
+ 
+Day 143 using a time-step of 20.0s:
+The total KE for the system is:  1.8252099272697256E35 J
+ 
+Day 143 using a time-step of 20.0s:
+The total PE for the system is:  -3.805880602875127E26 J
+ 
+Day 144 using a time-step of 20.0s:
+The total KE for the system is:  1.8253405988882127E35 J
+ 
+Day 144 using a time-step of 20.0s:
+The total PE for the system is:  -3.80601127495246E26 J
+ 
+Day 145 using a time-step of 20.0s:
+The total KE for the system is:  1.8254752593854247E35 J
+ 
+Day 145 using a time-step of 20.0s:
+The total PE for the system is:  -3.8061459359143305E26 J
+ 
+Day 146 using a time-step of 20.0s:
+The total KE for the system is:  1.8256139635409798E35 J
+ 
+Day 146 using a time-step of 20.0s:
+The total PE for the system is:  -3.806284640541433E26 J
+ 
+Day 147 using a time-step of 20.0s:
+The total KE for the system is:  1.825756775151439E35 J
+ 
+Day 147 using a time-step of 20.0s:
+The total PE for the system is:  -3.8064274526313E26 J
+ 
+Day 148 using a time-step of 20.0s:
+The total KE for the system is:  1.8259037666640642E35 J
+ 
+Day 148 using a time-step of 20.0s:
+The total PE for the system is:  -3.8065744446322225E26 J
+ 
+Day 149 using a time-step of 20.0s:
+The total KE for the system is:  1.8260550186775876E35 J
+ 
+Day 149 using a time-step of 20.0s:
+The total PE for the system is:  -3.8067256971438135E26 J
+ 
+Day 150 using a time-step of 20.0s:
+The total KE for the system is:  1.826210619288604E35 J
+ 
+Day 150 using a time-step of 20.0s:
+The total PE for the system is:  -3.806881298263499E26 J
+ 
+Day 151 using a time-step of 20.0s:
+The total KE for the system is:  1.8263706632488474E35 J
+ 
+Day 151 using a time-step of 20.0s:
+The total PE for the system is:  -3.8070413427437244E26 J
+ 
+Day 152 using a time-step of 20.0s:
+The total KE for the system is:  1.8265352508823078E35 J
+ 
+Day 152 using a time-step of 20.0s:
+The total PE for the system is:  -3.807205930909034E26 J
+ 
+Day 153 using a time-step of 20.0s:
+The total KE for the system is:  1.8267044866958293E35 J
+ 
+Day 153 using a time-step of 20.0s:
+The total PE for the system is:  -3.807375167266696E26 J
+ 
+Day 154 using a time-step of 20.0s:
+The total KE for the system is:  1.8268784776018065E35 J
+ 
+Day 154 using a time-step of 20.0s:
+The total PE for the system is:  -3.8075491587292515E26 J
+ 
+Day 155 using a time-step of 20.0s:
+The total KE for the system is:  1.827057330657062E35 J
+ 
+Day 155 using a time-step of 20.0s:
+The total PE for the system is:  -3.80772801235337E26 J
+ 
+Day 156 using a time-step of 20.0s:
+The total KE for the system is:  1.8272411502086697E35 J
+ 
+Day 156 using a time-step of 20.0s:
+The total PE for the system is:  -3.807911832485639E26 J
+ 
+Day 157 using a time-step of 20.0s:
+The total KE for the system is:  1.827430034323935E35 J
+ 
+Day 157 using a time-step of 20.0s:
+The total PE for the system is:  -3.808100717192392E26 J
+ 
+Day 158 using a time-step of 20.0s:
+The total KE for the system is:  1.8276240703665774E35 J
+ 
+Day 158 using a time-step of 20.0s:
+The total PE for the system is:  -3.8082947538358104E26 J
+ 
+Day 159 using a time-step of 20.0s:
+The total KE for the system is:  1.8278233295624607E35 J
+ 
+Day 159 using a time-step of 20.0s:
+The total PE for the system is:  -3.808494013639538E26 J
+ 
+Day 160 using a time-step of 20.0s:
+The total KE for the system is:  1.8280278603695182E35 J
+ 
+Day 160 using a time-step of 20.0s:
+The total PE for the system is:  -3.808698545058445E26 J
+ 
+Day 161 using a time-step of 20.0s:
+The total KE for the system is:  1.828237680426371E35 J
+ 
+Day 161 using a time-step of 20.0s:
+The total PE for the system is:  -3.808908365727019E26 J
+ 
+Day 162 using a time-step of 20.0s:
+The total KE for the system is:  1.828452766811356E35 J
+ 
+Day 162 using a time-step of 20.0s:
+The total PE for the system is:  -3.809123452718308E26 J
+ 
+Day 163 using a time-step of 20.0s:
+The total KE for the system is:  1.8286730443285837E35 J
+ 
+Day 163 using a time-step of 20.0s:
+The total PE for the system is:  -3.809343730829601E26 J
+ 
+Day 164 using a time-step of 20.0s:
+The total KE for the system is:  1.8288983715824186E35 J
+ 
+Day 164 using a time-step of 20.0s:
+The total PE for the system is:  -3.809569058656684E26 J
+ 
+Day 165 using a time-step of 20.0s:
+The total KE for the system is:  1.829128524724543E35 J
+ 
+Day 165 using a time-step of 20.0s:
+The total PE for the system is:  -3.809799212340682E26 J
+ 
+Day 166 using a time-step of 20.0s:
+The total KE for the system is:  1.829363178941467E35 J
+ 
+Day 166 using a time-step of 20.0s:
+The total PE for the system is:  -3.810033867055282E26 J
+ 
+Day 167 using a time-step of 20.0s:
+The total KE for the system is:  1.8296018879734277E35 J
+ 
+Day 167 using a time-step of 20.0s:
+The total PE for the system is:  -3.810272576525389E26 J
+ 
+Day 168 using a time-step of 20.0s:
+The total KE for the system is:  1.8298440622283293E35 J
+ 
+Day 168 using a time-step of 20.0s:
+The total PE for the system is:  -3.8105147511410445E26 J
+ 
+Day 169 using a time-step of 20.0s:
+The total KE for the system is:  1.830088946412566E35 J
+ 
+Day 169 using a time-step of 20.0s:
+The total PE for the system is:  -3.8107596355881785E26 J
+ 
+Day 170 using a time-step of 20.0s:
+The total KE for the system is:  1.830335598080203E35 J
+ 
+Day 170 using a time-step of 20.0s:
+The total PE for the system is:  -3.8110062873980505E26 J
+ 
+Day 171 using a time-step of 20.0s:
+The total KE for the system is:  1.8305828691035084E35 J
+ 
+Day 171 using a time-step of 20.0s:
+The total PE for the system is:  -3.811253558418195E26 J
+ 
+Day 172 using a time-step of 20.0s:
+The total KE for the system is:  1.8308293927445707E35 J
+ 
+Day 172 using a time-step of 20.0s:
+The total PE for the system is:  -3.811500081885015E26 J
+ 
+Day 173 using a time-step of 20.0s:
+The total KE for the system is:  1.8310735796615066E35 J
+ 
+Day 173 using a time-step of 20.0s:
+The total PE for the system is:  -3.811744268431067E26 J
+ 
+Day 174 using a time-step of 20.0s:
+The total KE for the system is:  1.831313626656514E35 J
+ 
+Day 174 using a time-step of 20.0s:
+The total PE for the system is:  -3.811984314834914E26 J
+ 
+Day 175 using a time-step of 20.0s:
+The total KE for the system is:  1.8315475420561068E35 J
+ 
+Day 175 using a time-step of 20.0s:
+The total PE for the system is:  -3.8122182294034665E26 J
+ 
+Day 176 using a time-step of 20.0s:
+The total KE for the system is:  1.8317731910562666E35 J
+ 
+Day 176 using a time-step of 20.0s:
+The total PE for the system is:  -3.8124438773195675E26 J
+ 
+Day 177 using a time-step of 20.0s:
+The total KE for the system is:  1.8319883629424195E35 J
+ 
+Day 177 using a time-step of 20.0s:
+The total PE for the system is:  -3.812659047864631E26 J
+ 
+Day 178 using a time-step of 20.0s:
+The total KE for the system is:  1.8321908596913303E35 J
+ 
+Day 178 using a time-step of 20.0s:
+The total PE for the system is:  -3.812861543022756E26 J
+ 
+Day 179 using a time-step of 20.0s:
+The total KE for the system is:  1.8323786021945015E35 J
+ 
+Day 179 using a time-step of 20.0s:
+The total PE for the system is:  -3.813049283705845E26 J
+ 
+Day 180 using a time-step of 20.0s:
+The total KE for the system is:  1.832549746642796E35 J
+ 
+Day 180 using a time-step of 20.0s:
+The total PE for the system is:  -3.813220426138845E26 J
+ 
+Day 181 using a time-step of 20.0s:
+The total KE for the system is:  1.8327028002368107E35 J
+ 
+Day 181 using a time-step of 20.0s:
+The total PE for the system is:  -3.813373477569213E26 J
+ 
+Day 182 using a time-step of 20.0s:
+The total KE for the system is:  1.8328367232807016E35 J
+ 
+Day 182 using a time-step of 20.0s:
+The total PE for the system is:  -3.813507398358614E26 J
+ 
+Day 183 using a time-step of 20.0s:
+The total KE for the system is:  1.832951004734301E35 J
+ 
+Day 183 using a time-step of 20.0s:
+The total PE for the system is:  -3.8136216775310544E26 J
+ 
+Day 184 using a time-step of 20.0s:
+The total KE for the system is:  1.833045700853364E35 J
+ 
+Day 184 using a time-step of 20.0s:
+The total PE for the system is:  -3.813716371408606E26 J
+ 
+Day 185 using a time-step of 20.0s:
+The total KE for the system is:  1.8331214313711224E35 J
+ 
+Day 185 using a time-step of 20.0s:
+The total PE for the system is:  -3.813792099787802E26 J
+ 
+Day 186 using a time-step of 20.0s:
+The total KE for the system is:  1.8331793337810632E35 J
+ 
+Day 186 using a time-step of 20.0s:
+The total PE for the system is:  -3.813850000217953E26 J
+ 
+Day 187 using a time-step of 20.0s:
+The total KE for the system is:  1.8332209822633776E35 J
+ 
+Day 187 using a time-step of 20.0s:
+The total PE for the system is:  -3.813891646924048E26 J
+ 
+Day 188 using a time-step of 20.0s:
+The total KE for the system is:  1.8332482822815358E35 J
+ 
+Day 188 using a time-step of 20.0s:
+The total PE for the system is:  -3.813918945401226E26 J
+ 
+Day 189 using a time-step of 20.0s:
+The total KE for the system is:  1.833263353979024E35 J
+ 
+Day 189 using a time-step of 20.0s:
+The total PE for the system is:  -3.8139340158110534E26 J
+ 
+Day 190 using a time-step of 20.0s:
+The total KE for the system is:  1.8332684170716357E35 J
+ 
+Day 190 using a time-step of 20.0s:
+The total PE for the system is:  -3.8139390778745086E26 J
+ 
+Day 191 using a time-step of 20.0s:
+The total KE for the system is:  1.8332656874798485E35 J
+ 
+Day 191 using a time-step of 20.0s:
+The total PE for the system is:  -3.813936347506339E26 J
+ 
+Day 192 using a time-step of 20.0s:
+The total KE for the system is:  1.8332572924115004E35 J
+ 
+Day 192 using a time-step of 20.0s:
+The total PE for the system is:  -3.813927951900018E26 J
+ 
+Day 193 using a time-step of 20.0s:
+The total KE for the system is:  1.8332452069595427E35 J
+ 
+Day 193 using a time-step of 20.0s:
+The total PE for the system is:  -3.8139158661280595E26 J
+ 
+Day 194 using a time-step of 20.0s:
+The total KE for the system is:  1.833231212228848E35 J
+ 
+Day 194 using a time-step of 20.0s:
+The total PE for the system is:  -3.8139018712712455E26 J
+ 
+Day 195 using a time-step of 20.0s:
+The total KE for the system is:  1.8332168728587257E35 J
+ 
+Day 195 using a time-step of 20.0s:
+The total PE for the system is:  -3.813887531943202E26 J
+ 
+Day 196 using a time-step of 20.0s:
+The total KE for the system is:  1.8332035305674565E35 J
+ 
+Day 196 using a time-step of 20.0s:
+The total PE for the system is:  -3.8138741898365025E26 J
+ 
+Day 197 using a time-step of 20.0s:
+The total KE for the system is:  1.833192309868568E35 J
+ 
+Day 197 using a time-step of 20.0s:
+The total PE for the system is:  -3.813862969440283E26 J
+ 
+Day 198 using a time-step of 20.0s:
+The total KE for the system is:  1.8331841322090535E35 J
+ 
+Day 198 using a time-step of 20.0s:
+The total PE for the system is:  -3.813854792179029E26 J
+ 
+Day 199 using a time-step of 20.0s:
+The total KE for the system is:  1.833179735251351E35 J
+ 
+Day 199 using a time-step of 20.0s:
+The total PE for the system is:  -3.813850395695165E26 J
+ 
+Day 200 using a time-step of 20.0s:
+The total KE for the system is:  1.8331796946740903E35 J
+ 
+Day 200 using a time-step of 20.0s:
+The total PE for the system is:  -3.8138503556498324E26 J
+ 
